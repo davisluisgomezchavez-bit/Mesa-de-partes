@@ -1,0 +1,9 @@
+
+# Archivos de Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Datos generados por el programa
+solicitudes.txt
